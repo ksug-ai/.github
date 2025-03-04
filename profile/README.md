@@ -12,8 +12,8 @@ K8SUG (Kubernetes & AI User Group) is the largest and most active global communi
 
 ## Join the K8SUG Global Community  
 📍 **Meetups Around the World!**  
-🌐 **Website:** [https://k8sug.com](https://k8sug.com)  
 📢 **Follow Us:** [https://linktr.ee/k8sug](https://linktr.ee/k8sug)  
+🌐 **Website:** [https://k8sug.com](https://k8sug.com)  
 💬 **Discussion Group:** [http://k8sdm.com](http://k8sdm.com)  
 
 ## Get Involved!  
@@ -24,6 +24,8 @@ K8SUG (Kubernetes & AI User Group) is the largest and most active global communi
 🚀 **K8SUG: Powering the Future of Kubernetes & AI!**  
 
 ## 📲 Scan to Join!
-![Scan to Join](https://github.com/k8sug/.github/blob/main/profile/qrcode_linktr.ee.png))
+<p align="center">
+  <img src="(https://github.com/k8sug/.github/blob/main/profile/qrcode_linktr.ee.png)" width="150">
+</p>
 
 #K8SUG #K8SDM #Kubestrong #Kubernetes #CloudNative #AI #DevOps #Community  
