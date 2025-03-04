@@ -14,7 +14,14 @@ K8SUG (Kubernetes & AI User Group) is the largest and most active global communi
 📍 **Meetups Around the World!**  
 📢 **Follow Us:** [https://linktr.ee/k8sug](https://linktr.ee/k8sug)  
 🌐 **Website:** [https://k8sug.com](https://k8sug.com)  
-💬 **Discussion Group:** [http://k8sdm.com](http://k8sdm.com)  
+
+### **Community Stats & Links**  
+- 📍 **K8SUG Meetup:** [25,000+ members](https://www.meetup.com/pro/yongkang)  
+- 💬 **K8SDM Discussion Group:** [19,000+ members](https://www.linkedin.com/groups/13983251/)  
+- 🔗 **Kubestrong LinkedIn:** [28,000+ followers](https://linkedin.com/company/kubestrong)  
+- ☁️ **Awstronaut LinkedIn:** [9,400+ followers](https://linkedin.com/company/awstronaut)  
+- 🔥 **K8SUG LinkedIn:** [14,000+ followers](https://linkedin.com/company/k8sug)  
+- 💻 **Join us on GitHub, WhatsApp, Telegram, and more!**
 
 ## Get Involved!  
 ✅ **Attend Our Next Event** – Join us for technical deep dives and networking  
