@@ -43,3 +43,5 @@ K8SUG (Kubernetes & AI User Group) is the largest and most active global communi
 ![Scan to Join](https://github.com/k8sug/.github/blob/main/profile/qrcode_linktr.ee.png)
 
 #K8SUG #K8SDM #Kubestrong #Kubernetes #CloudNative #AI #DevOps #Community  
+
+<sub>K8s and Kubernetes are registered trademarks of The Linux Foundation. K8SUG is an independent community and not affiliated with or endorsed by CNCF.</sub>
