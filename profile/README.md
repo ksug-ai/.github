@@ -1,7 +1,7 @@
-# K8SUG: The Most Active Kubernetes + AI User Group  
-🚀 Empowering Cloud Native & AI Enthusiasts Worldwide 🚀 Technically, **K8SUG** is running the largest Kubernetes cluster in the world with **113,000+** nerds. 😂 
+# KSUG.AI: KubeSmart & AI User Group  
+🚀 Empowering Multi-Cloud, Cloud Native, Kubernetes, and AI Enthusiasts Worldwide 🚀 Technically, **KSUG.AI** is running the largest Kubernetes cluster in the world with **113,000+** nerds. 😂 
 
-𝟏𝟏𝟑,𝟎𝟎𝟎+ followed #K8SUG 🔥 https://linktr.ee/k8sug
+𝟏𝟏𝟑,𝟎𝟎𝟎+ followed KSUG.AI 🔥 https://linktr.ee/k8sug
 
 ✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡
 
