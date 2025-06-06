@@ -1,7 +1,7 @@
 # KSUG.AI: KubeSmart & AI User Group  
 🚀 Empowering Multi-Cloud, Cloud Native, Kubernetes, and AI Enthusiasts Worldwide 🚀 Technically, **[KSUG.AI](https://ksug.ai)** is running the largest Kubernetes cluster in the world with **113,000+** nerds. 😂 
 
-𝟏𝟏𝟑,𝟎𝟎𝟎+ followed KSUG.AI 🔥 https://linktr.ee/k8sug
+𝟏𝟏𝟑,𝟎𝟎𝟎+ followed [KSUG.AI](https://ksug.ai) 🔥 [https://linktr.ee/ksug.ai](https://linktr.ee/ksug.ai)
 
 ✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡
 
@@ -20,7 +20,7 @@
 
 ## Join the KSUG.AI Global Community  
 📍 **Meetups Around the World!**  
-📢 **Follow Us:** [https://linktr.ee/k8sug](https://linktr.ee/k8sug)  
+📢 **Follow Us:** [https://linktr.ee/ksug.ai](https://linktr.ee/ksug.ai)  
 🌐 **Website:** [https://ksug.ai](https://ksug.ai/save)  
 
 ### **Community Stats & Links**  
@@ -44,4 +44,4 @@
 
 #KSUG.AI #KSUG #Kubestrong #Kubernetes #CloudNative #AI #DevOps #Community  
 
-<sub>K8s and Kubernetes are registered trademarks of The Linux Foundation. KSUG.AI is an independent community and not affiliated with or endorsed by CNCF.</sub>
+<sub>[KSUG.AI](https://ksug.ai) is an independent community and not affiliated with or endorsed by CNCF. K8s and Kubernetes are registered trademarks of The Linux Foundation.</sub>
