@@ -40,7 +40,7 @@
 🚀 **KSUG.AI: Powering the Future of Kubernetes & AI!**  
 
 ## 📲 Scan to Join!
-![Scan to Join](https://github.com/k8sug/.github/blob/main/profile/qrcode_linktr.ee.png)
+<img src="https://github.com/k8sug/.github/blob/main/profile/qrcode_linktr.ee.png" alt="Scan to Join" width="200"/>
 
 #KSUG.AI #KSUG #Kubestrong #Kubernetes #CloudNative #AI #DevOps #Community  
 
