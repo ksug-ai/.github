@@ -25,7 +25,7 @@
 
 ### **Community Stats & Links**  
 - 🔗 **kubestrong LinkedIn:** [31,000+ followers](https://linkedin.com/company/kubestrong)  
-- 📍 **KSUG.AI Meetup:** [27,000+ members](https://www.meetup.com/pro/yongkang)  
+- 📍 **KSUG.AI Meetup:** [30,000+ members](https://www.meetup.com/pro/yongkang)  
 - 💬 **KSUG.AI Discussion:** [23,000+ members](https://www.linkedin.com/groups/13983251/)  
 - 🔥 **KSUG.AI LinkedIn:** [17,000+ followers](https://linkedin.com/company/95053109)
 - 📪 **KSUG.AI Newsletter:** [12,000+ subscribers](https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/)
