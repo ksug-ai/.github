@@ -1,7 +1,7 @@
 # KSUG.AI: KubeSmart & AI User Group  
-🚀 Empowering Multi-Cloud, Cloud Native, Kubernetes, and AI Enthusiasts Worldwide 🚀 Technically, **[KSUG.AI](https://ksug.ai)** is running the largest Kubernetes cluster in the world with **𝟏𝟔𝟎,𝟎𝟎𝟎+** nerds. 😂 
+🚀 Empowering Multi-Cloud, Cloud Native, Kubernetes, and AI Enthusiasts Worldwide 🚀 Technically, **[KSUG.AI](https://ksug.ai)** is running the largest Kubernetes cluster in the world with **𝟏𝟖𝟎,𝟎𝟎𝟎+** nerds. 😂 
 
-𝟏𝟔𝟎,𝟎𝟎𝟎+ followed [KSUG.AI](https://ksug.ai) 🔥 [https://linktr.ee/ksug.ai](https://linktr.ee/ksug.ai)
+𝟏𝟖𝟎,𝟎𝟎𝟎+ followed [KSUG.AI](https://ksug.ai) 🔥 [https://linktr.ee/ksug.ai](https://linktr.ee/ksug.ai)
 
 ✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡
 
@@ -10,7 +10,7 @@
 ✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
 
 ## Who We Are  
-**[KSUG.AI](https://ksug.ai)** (KubeSmart & AI User Group) is the largest and most active global community focused on Multi-Cloud, Cloud Native, Kubernetes, and AI technologies. With over **32,000+ members worldwide**, we bring together developers, engineers, and tech enthusiasts to share knowledge, collaborate, and grow.
+**[KSUG.AI](https://ksug.ai)** (KubeSmart & AI User Group) is the largest and most active global community focused on Multi-Cloud, Cloud Native, Kubernetes, and AI technologies. With over **31,000+ members worldwide**, we bring together developers, engineers, and tech enthusiasts to share knowledge, collaborate, and grow.
 
 ## What We Do  
 ✅ **Meetups & Conferences** – Hands-on workshops, expert talks, and networking sessions  
@@ -24,7 +24,7 @@
 🌐 **Website:** [https://ksug.ai](https://ksug.ai/save)  
 
 ### **Community Stats & Links**  
-- 🔗 **kubestrong LinkedIn:** [32,000+ followers](https://linkedin.com/company/kubestrong)  
+- 🔗 **kubestrong LinkedIn:** [33,000+ followers](https://linkedin.com/company/kubestrong)  
 - 📍 **KSUG.AI Meetup:** [31,000+ members](https://www.meetup.com/pro/yongkang)  
 - 💬 **KSUG.AI Discussion:** [24,000+ members](https://www.linkedin.com/groups/13983251/)  
 - 🔥 **KSUG.AI LinkedIn:** [18,000+ followers](https://linkedin.com/company/95053109)
@@ -40,7 +40,10 @@
 🚀 **KSUG.AI: Powering the Future of Kubernetes & AI!**  
 
 ## 📲 Scan to Join!
-<img src="https://github.com/k8sug/.github/blob/main/profile/qrcode_linktr.ee.png" alt="Scan to Join" width="200"/>
+<a href="https://ksug.ai" target="_blank">
+  <img src="https://github.com/k8sug/.github/blob/main/profile/qrcode_linktr.ee.png" 
+       alt="Scan to Join" width="200"/>
+</a>
 
 #KSUG.AI #KSUG #Kubestrong #Kubernetes #CloudNative #AI #DevOps #Community  
 
