@@ -28,7 +28,7 @@
 - 📍 **KSUG.AI Meetup:** [31,000+ members](https://www.meetup.com/pro/yongkang)  
 - 💬 **KSUG.AI Discussion:** [24,000+ members](https://www.linkedin.com/groups/13983251/)  
 - 🔥 **KSUG.AI LinkedIn:** [18,000+ followers](https://linkedin.com/company/95053109)
-- 📪 **KSUG.AI Newsletter:** [13,000+ subscribers](https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/)
+- 📪 **KSUG.AI Newsletter:** [14,000+ subscribers](https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/)
 - ☁️ **awstronaut LinkedIn:** [13,000+ followers](https://linkedin.com/company/awstronaut)  
 - 💻 **Join us on** [Discord](https://discord.com/invite/Rp9WzYyKua), [GitHub](https://github.com/ksug-ai), [WhatsApp](https://chat.whatsapp.com/DMqtkzb3LvM20kN1IMZOW9), [Telegram](https://t.me/+QsBjgoId34EzN2I1), and more!
 
