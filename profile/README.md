@@ -19,9 +19,13 @@
 ✅ **Global Reach** – Chapters in **Australia, Singapore, Canada, UK, USA, India, Philippines,** and beyond!  
 
 ## Join the KSUG.AI Global Community  
+🚫 𝐍𝐄𝐕𝐄𝐑 𝐏𝐀𝐘 𝐅𝐔𝐋𝐋 𝐏𝐑𝐈𝐂𝐄 for learning, certifications or events!
+
+Access the [latest deals, promos, and discount codes](https://github.com/ksug-ai/kubesmart) here!
+
 📍 **Meetups Around the World!**  
-📢 **Follow Us:** [https://linktr.ee/ksug.ai](https://linktr.ee/ksug.ai)  
 🌐 **Website:** [https://ksug.ai](https://ksug.ai/save/?ref=github)  
+📢 **Follow Us:** [https://linktr.ee/ksug.ai](https://linktr.ee/ksug.ai)  
 
 ### **Community Stats & Links**  
 - 🔗 **KSUG.AI Founder LinkedIn:** [52,000+ followers](https://linkedin.com/in/yongkanghe)  
