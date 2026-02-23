@@ -10,7 +10,7 @@
 ✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
 
 ## Who We Are  
-**[KSUG.AI](https://ksug.ai/?ref=github)** (KubeSmart & AI User Group) is the largest and most active global community focused on Multi-Cloud, Cloud Native, Kubernetes, and AI technologies. With over **31,000+ members worldwide**, we bring together developers, engineers, and tech enthusiasts to share knowledge, collaborate, and grow.
+**[KSUG.AI](https://ksug.ai/?ref=github)** (KubeSmart & AI User Group) is the largest and most active global community focused on Multi-Cloud, Cloud Native, Kubernetes, and AI technologies. With over **38,000+ members worldwide**, we bring together developers, engineers, and tech enthusiasts to share knowledge, collaborate, and grow.
 
 ## What We Do  
 ✅ **Meetups & Conferences** – Hands-on workshops, expert talks, and networking sessions  
@@ -24,13 +24,13 @@
 🌐 **Website:** [https://ksug.ai](https://ksug.ai/save/?ref=github)  
 
 ### **Community Stats & Links**  
-- 🔗 **KSUG.AI Founder LinkedIn:** [51,000+ followers](https://linkedin.com/in/yongkanghe)  
-- 💪 **kubestrong LinkedIn:** [33,000+ followers](https://linkedin.com/company/kubestrong)  
-- 📍 **KSUG.AI Meetup:** [31,000+ members](https://www.meetup.com/pro/yongkang)  
+- 🔗 **KSUG.AI Founder LinkedIn:** [52,000+ followers](https://linkedin.com/in/yongkanghe)  
+- 💪 **kubestrong LinkedIn:** [35,000+ followers](https://linkedin.com/company/kubestrong)  
+- 📍 **KSUG.AI Meetup:** [38,000+ members](https://www.meetup.com/pro/yongkang)  
 - 💬 **KSUG.AI Discussion:** [24,000+ members](https://www.linkedin.com/groups/13983251/)  
-- 🔥 **KSUG.AI LinkedIn:** [19,000+ followers](https://linkedin.com/company/95053109)
-- 📪 **KSUG.AI Newsletter:** [14,000+ subscribers](https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/)
-- ☁️ **awstronaut LinkedIn:** [14,000+ followers](https://linkedin.com/company/awstronaut)  
+- 🔥 **KSUG.AI LinkedIn:** [20,000+ followers](https://linkedin.com/company/95053109)
+- 📪 **KSUG.AI Newsletter:** [15,000+ subscribers](https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/)
+- ☁️ **awstronaut LinkedIn:** [15,000+ followers](https://linkedin.com/company/awstronaut)  
 - 💻 **Join us on** [Discord](https://discord.com/invite/Rp9WzYyKua), [GitHub](https://github.com/ksug-ai), [WhatsApp](https://chat.whatsapp.com/DMqtkzb3LvM20kN1IMZOW9), [Telegram](https://t.me/+QsBjgoId34EzN2I1), and more!
 
 ## Get Involved!  
