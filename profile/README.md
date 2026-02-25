@@ -1,7 +1,7 @@
 # KSUG.AI: KubeSmart & AI User Group  
-🚀 Empowering Multi-Cloud, Cloud Native, Kubernetes, and AI Enthusiasts Worldwide 🚀 Technically, **[KSUG.AI](https://ksug.ai/?ref=github)** is running the largest Kubernetes cluster in the world with **𝟏𝟖𝟎,𝟎𝟎𝟎+** nerds. 😂 
+🚀 Empowering Multi-Cloud, Cloud Native, Kubernetes, and AI Enthusiasts Worldwide 🚀 Technically, **[KSUG.AI](https://ksug.ai/?ref=github)** is running the largest Kubernetes cluster in the world with **𝟐𝟎𝟎,𝟎𝟎𝟎+** nerds. 😂 
 
-𝟏𝟖𝟎,𝟎𝟎𝟎+ followed [KSUG.AI](https://ksug.ai/?ref=github) 🔥 [https://linktr.ee/ksug.ai](https://linktr.ee/ksug.ai)
+𝟐𝟎𝟎,𝟎𝟎𝟎+ followed [KSUG.AI](https://ksug.ai/?ref=github) 🔥 [https://linktr.ee/ksug.ai](https://linktr.ee/ksug.ai)
 
 ✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡
 
@@ -10,7 +10,7 @@
 ✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
 
 ## Who We Are  
-**[KSUG.AI](https://ksug.ai/?ref=github)** (KubeSmart & AI User Group) is the largest and most active global community focused on Multi-Cloud, Cloud Native, Kubernetes, and AI technologies. With over **38,000+ members worldwide**, we bring together developers, engineers, and tech enthusiasts to share knowledge, collaborate, and grow.
+**[KSUG.AI](https://ksug.ai/?ref=github)** (KubeSmart & AI User Group) is the largest and most active global community focused on Multi-Cloud, Cloud Native, Kubernetes, and AI technologies. We bring together developers, engineers, and tech enthusiasts to share knowledge, collaborate, and grow.
 
 ## What We Do  
 ✅ **Meetups & Conferences** – Hands-on workshops, expert talks, and networking sessions  
@@ -29,8 +29,9 @@ Access the [latest deals, promos, and discount codes](https://github.com/ksug-ai
 
 ### **Community Stats & Links**  
 - 🔗 **KSUG.AI Founder LinkedIn:** [52,000+ followers](https://linkedin.com/in/yongkanghe)  
-- 💪 **kubestrong LinkedIn:** [35,000+ followers](https://linkedin.com/company/kubestrong)  
 - 📍 **KSUG.AI Meetup:** [38,000+ members](https://www.meetup.com/pro/yongkang)  
+- 💪 **kubestrong LinkedIn:** [35,000+ followers](https://linkedin.com/company/kubestrong)
+- 💬 **Cloud Certification Study Group:** [33,000+ members](https://www.linkedin.com/groups/12376235/)
 - 💬 **KSUG.AI Discussion:** [24,000+ members](https://www.linkedin.com/groups/13983251/)  
 - 🔥 **KSUG.AI LinkedIn:** [20,000+ followers](https://linkedin.com/company/95053109)
 - 📪 **KSUG.AI Newsletter:** [15,000+ subscribers](https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/)
