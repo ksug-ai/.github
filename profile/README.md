@@ -32,7 +32,7 @@ Access the [latest deals, promos, and discount codes](https://github.com/ksug-ai
 - 📍 **KSUG.AI Meetup:** [38,000+ members](https://www.meetup.com/pro/yongkang)  
 - 💪 **kubestrong LinkedIn:** [35,000+ followers](https://linkedin.com/company/kubestrong)
 - 💬 **Cloud Certification Study Group:** [33,000+ members](https://www.linkedin.com/groups/12376235/)
-- 💬 **KSUG.AI Discussion:** [24,000+ members](https://www.linkedin.com/groups/13983251/)  
+- 💬 **Cloud Native + AI Group:** [25,000+ members](https://www.linkedin.com/groups/13983251/)  
 - 🔥 **KSUG.AI LinkedIn:** [20,000+ followers](https://linkedin.com/company/95053109)
 - 📪 **KSUG.AI Newsletter:** [15,000+ subscribers](https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/)
 - ☁️ **awstronaut LinkedIn:** [15,000+ followers](https://linkedin.com/company/awstronaut)  
