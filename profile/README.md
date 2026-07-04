@@ -1,7 +1,7 @@
 # KSUG.AI: KubeSmart & AI User Group  
 🚀 Empowering Multi-Cloud, Cloud Native, Kubernetes, and AI Enthusiasts Worldwide 🚀 Technically, **[KSUG.AI](https://ksug.ai/?ref=github)** is running the largest Kubernetes cluster in the world with **𝟐𝟎𝟎,𝟎𝟎𝟎+** nerds. 😂 
 
-𝟐𝟎𝟎,𝟎𝟎𝟎+ followed [KSUG.AI](https://ksug.ai/?ref=github) 🔥 [https://linktr.ee/ksug.ai](https://linktr.ee/ksug.ai)
+𝟐𝟎𝟎,𝟎𝟎𝟎+ followed [KSUG.AI](https://ksug.ai/?ref=github) 🔥
 
 ✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡
 
