@@ -47,7 +47,7 @@ Access the [latest deals, promos, and discount codes](https://github.com/ksug-ai
 
 ## 📲 Scan to Join!
 <a href="https://ksug.ai/?ref=github" target="_blank">
-  <img src="https://github.com/k8sug/.github/blob/main/profile/qrcode_linktr.ee.png" 
+  <img src="https://github.com/k8sug/.github/blob/main/profile/ksug-qr-code.png" 
        alt="Scan to Join" width="200"/>
 </a>
 
